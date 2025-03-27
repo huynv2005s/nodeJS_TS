@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "67a4e9685f116c0f4ca4b1d2"
+  },
+  "categoryName": "Đầm",
+  "createdAt": {
+    "$date": "2025-02-06T16:55:04.332Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T02:20:57.433Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a5583add2707e51a9c9fc0"
+  },
+  "categoryName": "Áo sơ mi",
+  "createdAt": {
+    "$date": "2025-02-07T00:47:54.470Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T00:47:54.470Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aaa664e4c58afec37fbe73"
+  },
+  "categoryName": "Áo thun",
+  "createdAt": {
+    "$date": "2025-02-11T01:22:44.902Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-11T01:22:44.902Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aaa66ee4c58afec37fbe75"
+  },
+  "categoryName": "Quần sort",
+  "createdAt": {
+    "$date": "2025-02-11T01:22:54.866Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-11T01:22:54.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aeab77ed0d2f0fd6fcc834"
+  },
+  "categoryName": "Áo thun cơ sở",
+  "createdAt": {
+    "$date": "2025-02-14T02:33:27.602Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T02:34:33.527Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aeabc3ed0d2f0fd6fcc83c"
+  },
+  "categoryName": "jean",
+  "createdAt": {
+    "$date": "2025-02-14T02:34:43.343Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T02:34:43.343Z"
+  },
+  "__v": 0
+}]

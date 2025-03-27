@@ -1,0 +1,922 @@
+[{
+  "_id": {
+    "$oid": "67bcb2f727e99d705a4e9380"
+  },
+  "userId": {
+    "$oid": "67aaded7e4c58afec37fc0cd"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "67aae1c697371dbcff68ed8d"
+      },
+      "quantity": 1,
+      "color": "Đen",
+      "price": 200000,
+      "size": "S",
+      "name": "Áo Thun Tay Lỡ Unisex SAIGONESE Chạy Viền Lines Form Nam Nữ 2 Màu",
+      "images": [
+        "https://res.cloudinary.com/diishpkrl/image/upload/v1739252163/uploads/jdk9dkjk6rrybqs98uc1.jpg"
+      ]
+    }
+  ],
+  "totalPrice": 2000,
+  "paymentMethod": "cod",
+  "paymentStatus": "pending",
+  "info": {
+    "address": "ấp trung xã đông thạnh huyện cần giuộc tỉnh long an",
+    "phone": "0764303467"
+  },
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-02-24T17:57:11.885Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-24T20:36:42.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bcb2fe27e99d705a4e9383"
+  },
+  "userId": {
+    "$oid": "67aaded7e4c58afec37fc0cd"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "67aae1c697371dbcff68ed8d"
+      },
+      "quantity": 1,
+      "color": "Đen",
+      "price": 200000,
+      "size": "S",
+      "name": "Áo Thun Tay Lỡ Unisex SAIGONESE Chạy Viền Lines Form Nam Nữ 2 Màu",
+      "images": [
+        "https://res.cloudinary.com/diishpkrl/image/upload/v1739252163/uploads/jdk9dkjk6rrybqs98uc1.jpg"
+      ]
+    }
+  ],
+  "totalPrice": 2000,
+  "paymentMethod": "cod",
+  "paymentStatus": "pending",
+  "info": {
+    "address": "ấp trung xã đông thạnh huyện cần giuộc tỉnh long an",
+    "phone": "0764303467"
+  },
+  "status": "cancelled",
+  "createdAt": {
+    "$date": "2025-02-24T17:57:18.886Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-24T19:33:14.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bcb2ff27e99d705a4e9385"
+  },
+  "userId": {
+    "$oid": "67aaded7e4c58afec37fc0cd"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "67aae1c697371dbcff68ed8d"
+      },
+      "quantity": 1,
+      "color": "Đen",
+      "price": 200000,
+      "size": "S",
+      "name": "Áo Thun Tay Lỡ Unisex SAIGONESE Chạy Viền Lines Form Nam Nữ 2 Màu",
+      "images": [
+        "https://res.cloudinary.com/diishpkrl/image/upload/v1739252163/uploads/jdk9dkjk6rrybqs98uc1.jpg"
+      ]
+    }
+  ],
+  "totalPrice": 2000,
+  "paymentMethod": "cod",
+  "paymentStatus": "pending",
+  "info": {
+    "address": "ấp trung xã đông thạnh huyện cần giuộc tỉnh long an",
+    "phone": "0764303467"
+  },
+  "status": "cancelled",
+  "createdAt": {
+    "$date": "2025-02-24T17:57:19.164Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-24T19:34:31.434Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bcb2ff27e99d705a4e9387"
+  },
+  "userId": {
+    "$oid": "67aaded7e4c58afec37fc0cd"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "67aae1c697371dbcff68ed8d"
+      },
+      "quantity": 1,
+      "color": "Đen",
+      "price": 200000,
+      "size": "S",
+      "name": "Áo Thun Tay Lỡ Unisex SAIGONESE Chạy Viền Lines Form Nam Nữ 2 Màu",
+      "images": [
+        "https://res.cloudinary.com/diishpkrl/image/upload/v1739252163/uploads/jdk9dkjk6rrybqs98uc1.jpg"
+      ]
+    }
+  ],
+  "totalPrice": 2000,
+  "paymentMethod": "cod",
+  "paymentStatus": "pending",
+  "info": {
+    "address": "ấp trung xã đông thạnh huyện cần giuộc tỉnh long an",
+    "phone": "0764303467"
+  },
+  "status": "confirmed",
+  "createdAt": {
+    "$date": "2025-02-24T17:57:19.411Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-24T19:37:30.427Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bcb2ff27e99d705a4e9389"
+  },
+  "userId": {
+    "$oid": "67aaded7e4c58afec37fc0cd"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "67aae1c697371dbcff68ed8d"
+      },
+      "quantity": 1,
+      "color": "Đen",
+      "price": 200000,
+      "size": "S",
+      "name": "Áo Thun Tay Lỡ Unisex SAIGONESE Chạy Viền Lines Form Nam Nữ 2 Màu",
+      "images": [
+        "https://res.cloudinary.com/diishpkrl/image/upload/v1739252163/uploads/jdk9dkjk6rrybqs98uc1.jpg"
+      ]
+    }
+  ],
+  "totalPrice": 2000,
+  "paymentMethod": "cod",
+  "paymentStatus": "pending",
+  "info": {
+    "address": "ấp trung xã đông thạnh huyện cần giuộc tỉnh long an",
+    "phone": "0764303467"
+  },
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-02-24T17:57:19.586Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-24T19:33:00.049Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bcb2ff27e99d705a4e938b"
+  },
+  "userId": {
+    "$oid": "67aaded7e4c58afec37fc0cd"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "67aae1c697371dbcff68ed8d"
+      },
+      "quantity": 1,
+      "color": "Đen",
+      "price": 200000,
+      "size": "S",
+      "name": "Áo Thun Tay Lỡ Unisex SAIGONESE Chạy Viền Lines Form Nam Nữ 2 Màu",
+      "images": [
+        "https://res.cloudinary.com/diishpkrl/image/upload/v1739252163/uploads/jdk9dkjk6rrybqs98uc1.jpg"
+      ]
+    }
+  ],
+  "totalPrice": 2000,
+  "paymentMethod": "cod",
+  "paymentStatus": "pending",
+  "info": {
+    "address": "ấp trung xã đông thạnh huyện cần giuộc tỉnh long an",
+    "phone": "0764303467"
+  },
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-02-24T17:57:19.971Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-24T19:30:23.001Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bcb6b3ac7cf38293465327"
+  },
+  "userId": {
+    "$oid": "67aaded7e4c58afec37fc0cd"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "67aae1c697371dbcff68ed8d"
+      },
+      "quantity": 1,
+      "color": "Đen",
+      "price": 200000,
+      "size": "S",
+      "name": "Áo Thun Tay Lỡ Unisex SAIGONESE Chạy Viền Lines Form Nam Nữ 2 Màu",
+      "images": [
+        "https://res.cloudinary.com/diishpkrl/image/upload/v1739252163/uploads/jdk9dkjk6rrybqs98uc1.jpg"
+      ]
+    }
+  ],
+  "totalPrice": 2000,
+  "paymentMethod": "bank_transfer",
+  "paymentStatus": "pending",
+  "info": {
+    "address": "ấp trung xã đông thạnh huyện cần giuộc tỉnh long an",
+    "phone": "0764303467"
+  },
+  "status": "pending",
+  "createdAt": {
+    "$date": "2025-02-24T18:13:07.544Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-24T18:13:07.544Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bccbdadca2730b8f67a93b"
+  },
+  "userId": {
+    "$oid": "67aaded7e4c58afec37fc0cd"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "67aae1c697371dbcff68ed8d"
+      },
+      "quantity": 3,
+      "color": "Đen",
+      "price": 200000,
+      "size": "S",
+      "name": "Áo Thun Tay Lỡ Unisex SAIGONESE Chạy Viền Lines Form Nam Nữ 2 Màu",
+      "images": [
+        "https://res.cloudinary.com/diishpkrl/image/upload/v1739252163/uploads/jdk9dkjk6rrybqs98uc1.jpg"
+      ]
+    }
+  ],
+  "totalPrice": 2000,
+  "paymentMethod": "bank_transfer",
+  "paymentStatus": "pending",
+  "info": {
+    "address": "ấp trung xã đông thạnh huyện cần giuộc tỉnh long an",
+    "phone": "0764303467"
+  },
+  "status": "pending",
+  "createdAt": {
+    "$date": "2025-02-24T19:43:22.848Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-24T19:43:22.848Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bccea5604b4d168bb44aac"
+  },
+  "userId": {
+    "$oid": "67aaded7e4c58afec37fc0cd"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "67aae1c697371dbcff68ed8d"
+      },
+      "quantity": 1,
+      "color": "Đen",
+      "price": 200000,
+      "size": "S",
+      "name": "Áo Thun Tay Lỡ Unisex SAIGONESE Chạy Viền Lines Form Nam Nữ 2 Màu",
+      "images": [
+        "https://res.cloudinary.com/diishpkrl/image/upload/v1739252163/uploads/jdk9dkjk6rrybqs98uc1.jpg"
+      ]
+    }
+  ],
+  "totalPrice": 2000,
+  "paymentMethod": "bank_transfer",
+  "paymentStatus": "pending",
+  "info": {
+    "address": "ấp trung xã đông thạnh huyện cần giuộc tỉnh long an",
+    "phone": "0764303467"
+  },
+  "status": "pending",
+  "createdAt": {
+    "$date": "2025-02-24T19:55:17.513Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-24T19:55:17.513Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bccf00b2ae09d75f3b6111"
+  },
+  "userId": {
+    "$oid": "67aaded7e4c58afec37fc0cd"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "67aae1c697371dbcff68ed8d"
+      },
+      "quantity": 1,
+      "color": "Đen",
+      "price": 200000,
+      "size": "S",
+      "name": "Áo Thun Tay Lỡ Unisex SAIGONESE Chạy Viền Lines Form Nam Nữ 2 Màu",
+      "images": [
+        "https://res.cloudinary.com/diishpkrl/image/upload/v1739252163/uploads/jdk9dkjk6rrybqs98uc1.jpg"
+      ]
+    }
+  ],
+  "totalPrice": 2000,
+  "paymentMethod": "cod",
+  "paymentStatus": "pending",
+  "info": {
+    "address": "ấp trung xã đông thạnh huyện cần giuộc tỉnh long an",
+    "phone": "0764303467"
+  },
+  "status": "confirmed",
+  "createdAt": {
+    "$date": "2025-02-24T19:56:48.431Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-25T02:12:29.686Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bccf5ba64513156ea64c58"
+  },
+  "userId": {
+    "$oid": "67aaded7e4c58afec37fc0cd"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "67aae1c697371dbcff68ed8e"
+      },
+      "quantity": 1,
+      "color": "Đen",
+      "price": 200000,
+      "size": "M",
+      "name": "Áo Thun Tay Lỡ Unisex SAIGONESE Chạy Viền Lines Form Nam Nữ 2 Màu",
+      "images": [
+        "https://res.cloudinary.com/diishpkrl/image/upload/v1739252163/uploads/jdk9dkjk6rrybqs98uc1.jpg"
+      ]
+    }
+  ],
+  "totalPrice": 2000,
+  "paymentMethod": "bank_transfer",
+  "paymentStatus": "pending",
+  "info": {
+    "address": "ấp trung xã đông thạnh huyện cần giuộc tỉnh long an",
+    "phone": "0764303467"
+  },
+  "status": "pending",
+  "createdAt": {
+    "$date": "2025-02-24T19:58:19.469Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-24T19:58:19.469Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bccff507f65e6072022feb"
+  },
+  "userId": {
+    "$oid": "67aaded7e4c58afec37fc0cd"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "67aae1c697371dbcff68ed8d"
+      },
+      "quantity": 1,
+      "color": "Đen",
+      "price": 200000,
+      "size": "S",
+      "name": "Áo Thun Tay Lỡ Unisex SAIGONESE Chạy Viền Lines Form Nam Nữ 2 Màu",
+      "images": [
+        "https://res.cloudinary.com/diishpkrl/image/upload/v1739252163/uploads/jdk9dkjk6rrybqs98uc1.jpg"
+      ]
+    }
+  ],
+  "totalPrice": 2000,
+  "paymentMethod": "bank_transfer",
+  "paymentStatus": "pending",
+  "info": {
+    "address": "ấp trung xã đông thạnh huyện cần giuộc tỉnh long an",
+    "phone": "0764303467"
+  },
+  "status": "pending",
+  "createdAt": {
+    "$date": "2025-02-24T20:00:53.255Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-24T20:00:53.255Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bcd1efa6efecc54425322a"
+  },
+  "userId": {
+    "$oid": "67aaded7e4c58afec37fc0cd"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "67aae1c697371dbcff68ed8d"
+      },
+      "quantity": 1,
+      "color": "Đen",
+      "price": 200000,
+      "size": "S",
+      "name": "Áo Thun Tay Lỡ Unisex SAIGONESE Chạy Viền Lines Form Nam Nữ 2 Màu",
+      "images": [
+        "https://res.cloudinary.com/diishpkrl/image/upload/v1739252163/uploads/jdk9dkjk6rrybqs98uc1.jpg"
+      ]
+    }
+  ],
+  "totalPrice": 2000,
+  "paymentMethod": "bank_transfer",
+  "paymentStatus": "pending",
+  "info": {
+    "address": "ấp trung xã đông thạnh huyện cần giuộc tỉnh long an",
+    "phone": "0764303467"
+  },
+  "status": "pending",
+  "createdAt": {
+    "$date": "2025-02-24T20:09:19.060Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-24T20:09:19.060Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bcd24b25f5b9a61c49271d"
+  },
+  "orderCode": 851434,
+  "userId": {
+    "$oid": "67aaded7e4c58afec37fc0cd"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "67aae1c697371dbcff68ed8d"
+      },
+      "quantity": 1,
+      "color": "Đen",
+      "price": 200000,
+      "size": "S",
+      "name": "Áo Thun Tay Lỡ Unisex SAIGONESE Chạy Viền Lines Form Nam Nữ 2 Màu",
+      "images": [
+        "https://res.cloudinary.com/diishpkrl/image/upload/v1739252163/uploads/jdk9dkjk6rrybqs98uc1.jpg"
+      ]
+    }
+  ],
+  "totalPrice": 2000,
+  "paymentMethod": "bank_transfer",
+  "paymentStatus": "cancelled",
+  "info": {
+    "address": "ấp trung xã đông thạnh huyện cần giuộc tỉnh long an",
+    "phone": "0764303467"
+  },
+  "status": "cancelled",
+  "createdAt": {
+    "$date": "2025-02-24T20:10:51.444Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-24T20:39:55.344Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bd1179a34f7b1ed76e89fa"
+  },
+  "orderCode": 2577266,
+  "userId": {
+    "$oid": "67aaded7e4c58afec37fc0cd"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "67aae1c697371dbcff68ed8d"
+      },
+      "quantity": 1,
+      "color": "Đen",
+      "price": 200000,
+      "size": "S",
+      "name": "Áo Thun Tay Lỡ Unisex SAIGONESE Chạy Viền Lines Form Nam Nữ 2 Màu",
+      "images": [
+        "https://res.cloudinary.com/diishpkrl/image/upload/v1739252163/uploads/jdk9dkjk6rrybqs98uc1.jpg"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "67aae1c697371dbcff68ed8e"
+      },
+      "quantity": 1,
+      "color": "Đen",
+      "price": 200000,
+      "size": "M",
+      "name": "Áo Thun Tay Lỡ Unisex SAIGONESE Chạy Viền Lines Form Nam Nữ 2 Màu",
+      "images": [
+        "https://res.cloudinary.com/diishpkrl/image/upload/v1739252163/uploads/jdk9dkjk6rrybqs98uc1.jpg"
+      ]
+    }
+  ],
+  "totalPrice": 2000,
+  "paymentMethod": "bank_transfer",
+  "paymentStatus": "paid",
+  "info": {
+    "address": "ấp trung xã đông thạnh huyện cần giuộc tỉnh long an",
+    "phone": "0764303467"
+  },
+  "status": "paid",
+  "createdAt": {
+    "$date": "2025-02-25T00:40:25.790Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-25T01:38:28.483Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bd2222a914e3d0560e3c69"
+  },
+  "orderCode": 29075900,
+  "userId": {
+    "$oid": "67aaded7e4c58afec37fc0cd"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "67aaf0d0f8ae99a069fdc559"
+      },
+      "quantity": 1,
+      "color": "Đen",
+      "price": 170000,
+      "size": "S",
+      "name": "Tianlesiwei American Street College Style",
+      "images": [
+        "https://res.cloudinary.com/diishpkrl/image/upload/v1739256015/uploads/gndid8aibz8wkigl0yx9.webp"
+      ]
+    }
+  ],
+  "totalPrice": 170000,
+  "paymentMethod": "bank_transfer",
+  "paymentStatus": "cancelled",
+  "info": {
+    "address": "ấp trung xã đông thạnh huyện cần giuộc tỉnh long an",
+    "phone": "0764303467"
+  },
+  "status": "cancelled",
+  "createdAt": {
+    "$date": "2025-02-25T01:51:30.777Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-25T02:05:56.511Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bd2657c54dc6393d033f19"
+  },
+  "orderCode": 36744109,
+  "userId": {
+    "$oid": "67aaded7e4c58afec37fc0cd"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "67aaf0d0f8ae99a069fdc55a"
+      },
+      "quantity": 1,
+      "color": "Đen",
+      "price": 170000,
+      "size": "M",
+      "name": "Tianlesiwei American Street College Style",
+      "images": [
+        "https://res.cloudinary.com/diishpkrl/image/upload/v1739256015/uploads/gndid8aibz8wkigl0yx9.webp"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "67aaf083f8ae99a069fdc556"
+      },
+      "quantity": 1,
+      "color": "Đen",
+      "price": 70000,
+      "size": "M",
+      "name": " Quần Short Lửng",
+      "images": [
+        "https://res.cloudinary.com/diishpkrl/image/upload/v1739255938/uploads/rqph8bxmkshtmilnrwit.webp"
+      ]
+    }
+  ],
+  "totalPrice": 240000,
+  "paymentMethod": "bank_transfer",
+  "paymentStatus": "cancelled",
+  "info": {
+    "address": "ấp trung xã đông thạnh huyện cần giuộc tỉnh long an",
+    "phone": "0764303467"
+  },
+  "status": "cancelled",
+  "createdAt": {
+    "$date": "2025-02-25T02:09:27.490Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-25T02:10:16.225Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bd26bbb846b34370cabcad"
+  },
+  "orderCode": 46782636,
+  "userId": {
+    "$oid": "67aaded7e4c58afec37fc0cd"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "67aaf0d0f8ae99a069fdc55a"
+      },
+      "quantity": 1,
+      "color": "Đen",
+      "price": 170000,
+      "size": "M",
+      "name": "Tianlesiwei American Street College Style",
+      "images": [
+        "https://res.cloudinary.com/diishpkrl/image/upload/v1739256015/uploads/gndid8aibz8wkigl0yx9.webp"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "67aaf0d0f8ae99a069fdc559"
+      },
+      "quantity": 1,
+      "color": "Đen",
+      "price": 170000,
+      "size": "S",
+      "name": "Tianlesiwei American Street College Style",
+      "images": [
+        "https://res.cloudinary.com/diishpkrl/image/upload/v1739256015/uploads/gndid8aibz8wkigl0yx9.webp"
+      ]
+    }
+  ],
+  "totalPrice": 340000,
+  "paymentMethod": "bank_transfer",
+  "paymentStatus": "paid",
+  "info": {
+    "address": "ấp trung xã đông thạnh huyện cần giuộc tỉnh long an",
+    "phone": "0764303467"
+  },
+  "status": "paid",
+  "createdAt": {
+    "$date": "2025-02-25T02:11:07.840Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-25T02:11:31.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bdccfc0639fd71ed043964"
+  },
+  "orderCode": 2813386,
+  "userId": {
+    "$oid": "67aaded7e4c58afec37fc0cd"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "67aaf083f8ae99a069fdc555"
+      },
+      "quantity": 1,
+      "color": "Đen",
+      "price": 70000,
+      "size": "S",
+      "name": " Quần Short Lửng",
+      "images": [
+        "https://res.cloudinary.com/diishpkrl/image/upload/v1739255938/uploads/rqph8bxmkshtmilnrwit.webp"
+      ]
+    }
+  ],
+  "totalPrice": 70000,
+  "paymentMethod": "cod",
+  "paymentStatus": "pending",
+  "info": {
+    "address": "ấp trung xã đông thạnh huyện cần giuộc tỉnh long an",
+    "phone": "0764303467"
+  },
+  "status": "confirmed",
+  "createdAt": {
+    "$date": "2025-02-25T14:00:28.141Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-26T01:20:15.103Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bdce1b569f76b899341b92"
+  },
+  "orderCode": 31554706,
+  "userId": {
+    "$oid": "67aaded7e4c58afec37fc0cd"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "67aaf0d0f8ae99a069fdc559"
+      },
+      "quantity": 1,
+      "color": "Đen",
+      "price": 170000,
+      "size": "S",
+      "name": "Tianlesiwei American Street College Style",
+      "images": [
+        "https://res.cloudinary.com/diishpkrl/image/upload/v1739256015/uploads/gndid8aibz8wkigl0yx9.webp"
+      ]
+    }
+  ],
+  "totalPrice": 170000,
+  "paymentMethod": "bank_transfer",
+  "paymentStatus": "cancelled",
+  "info": {
+    "address": "ấp trung xã đông thạnh huyện cần giuộc tỉnh long an",
+    "phone": "0764303467"
+  },
+  "status": "cancelled",
+  "createdAt": {
+    "$date": "2025-02-25T14:05:15.556Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-25T14:09:20.535Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67be663360944aececf8e92b"
+  },
+  "orderCode": 25168834,
+  "userId": {
+    "$oid": "67aaded7e4c58afec37fc0cd"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "67aaf0d0f8ae99a069fdc559"
+      },
+      "quantity": 1,
+      "color": "Đen",
+      "price": 170000,
+      "size": "S",
+      "name": "Tianlesiwei American Street College Style",
+      "images": [
+        "https://res.cloudinary.com/diishpkrl/image/upload/v1739256015/uploads/gndid8aibz8wkigl0yx9.webp"
+      ]
+    }
+  ],
+  "totalPrice": 170000,
+  "paymentMethod": "cod",
+  "paymentStatus": "pending",
+  "info": {
+    "address": "ấp trung xã đông thạnh huyện cần giuộc tỉnh long an",
+    "phone": "0764303467"
+  },
+  "status": "pending",
+  "createdAt": {
+    "$date": "2025-02-26T00:54:11.721Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-26T00:54:11.721Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67be6bae43f834620663503a"
+  },
+  "orderCode": 65441502,
+  "userId": {
+    "$oid": "67aaded7e4c58afec37fc0cd"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "67aaf083f8ae99a069fdc555"
+      },
+      "quantity": 2,
+      "color": "Đen",
+      "price": 70000,
+      "size": "S",
+      "name": " Quần Short Lửng",
+      "images": [
+        "https://res.cloudinary.com/diishpkrl/image/upload/v1739255938/uploads/rqph8bxmkshtmilnrwit.webp"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "67aaf083f8ae99a069fdc556"
+      },
+      "quantity": 1,
+      "color": "Đen",
+      "price": 70000,
+      "size": "M",
+      "name": " Quần Short Lửng",
+      "images": [
+        "https://res.cloudinary.com/diishpkrl/image/upload/v1739255938/uploads/rqph8bxmkshtmilnrwit.webp"
+      ]
+    }
+  ],
+  "totalPrice": 210000,
+  "paymentMethod": "bank_transfer",
+  "paymentStatus": "paid",
+  "info": {
+    "address": "ấp trung xã đông thạnh huyện cần giuộc tỉnh long an",
+    "phone": "0764303467"
+  },
+  "status": "paid",
+  "createdAt": {
+    "$date": "2025-02-26T01:17:34.489Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-26T01:19:30.322Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67be6bb343f834620663503c"
+  },
+  "orderCode": 65973093,
+  "userId": {
+    "$oid": "67aaded7e4c58afec37fc0cd"
+  },
+  "products": [],
+  "totalPrice": 210000,
+  "paymentMethod": "bank_transfer",
+  "paymentStatus": "pending",
+  "info": {
+    "address": "ấp trung xã đông thạnh huyện cần giuộc tỉnh long an",
+    "phone": "0764303467"
+  },
+  "status": "pending",
+  "createdAt": {
+    "$date": "2025-02-26T01:17:39.731Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-26T01:17:39.731Z"
+  },
+  "__v": 0
+}]

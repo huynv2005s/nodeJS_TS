@@ -1,0 +1,139 @@
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+    }
+
+    form {
+        background: white;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        width: 400px;
+    }
+
+    label {
+        font-weight: bold;
+        display: block;
+        margin-top: 10px;
+    }
+
+    input,
+    textarea {
+        width: 100%;
+        padding: 8px;
+        margin-top: 5px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+    input[type="file"] {
+        border: none;
+    }
+
+    button {
+        width: 100%;
+        padding: 10px;
+        background: #28a745;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-top: 15px;
+        font-size: 16px;
+    }
+
+    button:hover {
+        background: #218838;
+    }
+
+    /* Tags checkbox */
+    input[type="checkbox"] {
+        margin-right: 5px;
+    }
+
+    /* Variants section */
+    #variants>div {
+        display: flex;
+        gap: 5px;
+        margin-top: 10px;
+    }
+
+    #variants input {
+        flex: 1;
+    }
+</style>
+<form id="productForm" enctype="multipart/form-data">
+    <label for="name">Tên sản phẩm:</label>
+    <input type="text" id="name" name="name" required />
+    <label for="description">Mô tả:</label>
+    <textarea id="description" name="description"></textarea>
+    <label for="price">Giá:</label>
+    <input type="number" id="price" name="price" required />
+    <label for="categoryId">Danh mục:</label>
+    <input type="text" id="categoryId" name="categoryId" required />
+    <label>Tags:</label>
+    <div>
+        <label>
+            <input type="checkbox" name="tags" value="New" /> New
+        </label>
+        <label>
+            <input type="checkbox" name="tags" value="Sale" /> Sale
+        </label>
+        <label>
+            <input type="checkbox" name="tags" value="Hot" /> Hot
+        </label>
+        <label>
+            <input type="checkbox" name="tags" value="Limited" /> Limited
+        </label>
+    </div>
+    <label for="images">Hình ảnh:</label>
+    <input type="file" id="images" name="images" multiple />
+    <div hidden id="variants">
+        <label>Variants:</label>
+        <div>
+            <input type="text" name="variants[0][color]" value="Đen" placeholder="Color" required />
+            <input type="text" name="variants[0][size]" value="S" placeholder="Size" required />
+            <input type="number" name="variants[0][stock]" value="100" placeholder="Stock" required />
+            <input type="number" name="variants[0][price]" value="1200" placeholder="Price" />
+        </div>
+        <div>
+            <input type="text" name="variants[1][color]" value="Đen" placeholder="Color" required />
+            <input type="text" name="variants[1][size]" value="M" placeholder="Size" required />
+            <input type="number" name="variants[1][stock]" value="30" placeholder="Stock" required />
+            <input type="number" name="variants[1][price]" value="1300" placeholder="Price" />
+        </div>
+    </div>
+    <button type="submit">Thêm sản phẩm</button>
+</form>
+<script>
+    const form = document.querySelector("#productForm");
+
+    form.addEventListener("submit", async (e) => {
+        e.preventDefault();
+        const formData = new FormData(form);
+        console.log(formData)
+        try {
+            const response = await fetch("http://localhost:8066/api/addProduct", {
+                method: "POST",
+                body: formData,
+            });
+
+            if (response.ok) {
+                const result = await response.json();
+                console.log("Thêm sản phẩm thành công:", result);
+            } else {
+                const error = await response.json();
+                console.error("Lỗi khi thêm sản phẩm:", error);
+            }
+        } catch (error) {
+            console.error("Lỗi mạng hoặc server:", error);
+        }
+    });
+
+</script>

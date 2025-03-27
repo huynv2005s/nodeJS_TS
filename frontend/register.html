@@ -1,0 +1,676 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Đăng Ký</title>
+    <link rel="icon" type="image/png" href="images/icons/favicon.png" />
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="fonts/iconic/css/material-design-iconic-font.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="fonts/linearicons-v1.0.0/icon-font.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="vendor/css-hamburgers/hamburgers.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="vendor/animsition/css/animsition.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="vendor/daterangepicker/daterangepicker.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="vendor/slick/slick.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="vendor/MagnificPopup/magnific-popup.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="vendor/perfect-scrollbar/perfect-scrollbar.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="css/util.css">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <style>
+        .form-container {
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0px 6px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 400px;
+            margin: 0 auto;
+            margin-top: 50px;
+            margin-bottom: 50px;
+        }
+
+        .form-container h2 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #333;
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+            color: #555;
+        }
+
+        .form-group input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        .form-group input:focus {
+            border-color: #007bff;
+            outline: none;
+        }
+
+        .form-group button {
+            width: 100%;
+            padding: 10px;
+            background: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        .form-group button:hover {
+            background: #0056b3;
+        }
+
+        .form-footer {
+            text-align: center;
+            margin-top: 10px;
+            font-size: 14px;
+        }
+
+        .form-footer a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        .form-footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <!-- Header desktop -->
+        <header>
+            <!-- Header desktop -->
+            <div class="container-menu-desktop">
+                <!-- Topbar -->
+                <div class="top-bar">
+                    <div class="content-topbar flex-sb-m h-full container">
+                        <div class="left-top-bar">
+                            Free shipping for standard order over $100
+                        </div>
+
+                        <div class="right-top-bar flex-w h-full">
+                            <a href="#" class="flex-c-m trans-04 p-lr-25">
+                                Help & FAQs
+                            </a>
+
+                            <a id="account" href="./login.html" class="flex-c-m trans-04 p-lr-25">
+                                Tài khoản
+                            </a>
+
+                            <a href="#" class="flex-c-m trans-04 p-lr-25">
+                                EN
+                            </a>
+
+                            <a href="#" class="flex-c-m trans-04 p-lr-25">
+                                USD
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="">
+                    <nav class="limiter-menu-desktop container">
+
+                        <!-- Logo desktop -->
+                        <a href="#" class="logo">
+                            <img src="images/icons/logo-01.png" alt="IMG-LOGO">
+                        </a>
+
+                        <!-- Menu desktop -->
+                        <div class="menu-desktop">
+                            <ul class="main-menu">
+                                <li class="active-menu">
+                                    <a href="index.html">Trang chủ</a>
+                                    <!-- <ul class="sub-menu">
+                                        <li><a href="index.html">Homepage 1</a></li>
+                                        <li><a href="home-02.html">Homepage 2</a></li>
+                                        <li><a href="home-03.html">Homepage 3</a></li>
+                                    </ul> -->
+                                </li>
+
+                                <li>
+                                    <a href="product.html">Cửa hàng</a>
+                                </li>
+
+                                <!-- <li class="label1" data-label1="hot">
+                                    <a href="shoping-cart.html">Features</a>
+                                </li> -->
+
+                                <li>
+                                    <a href="blog.html">Bài viết</a>
+                                </li>
+
+                                <li>
+                                    <a href="about.html">Giới thiệu</a>
+                                </li>
+
+                                <li>
+                                    <a href="contact.html">Liên hệ</a>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <!-- Icon header -->
+                        <div class="wrap-icon-header flex-w flex-r-m">
+                            <div class="icon-header-item cl2 hov-cl1 trans-04 p-l-22 p-r-11 js-show-modal-search">
+                                <i class="zmdi zmdi-search"></i>
+                            </div>
+
+                            <div class="icon-header-item cl2 hov-cl1 trans-04 p-l-22 p-r-11 icon-header-noti">
+                                <a href="./shoping-cart.html" style="color:#333333"><i
+                                        class="zmdi zmdi-shopping-cart"></i></a>
+                            </div>
+
+                            <a href="#"
+                                class="dis-block icon-header-item cl2 hov-cl1 trans-04 p-l-22 p-r-11 icon-header-noti"
+                                data-notify="0">
+                                <i class="zmdi zmdi-favorite-outline"></i>
+                            </a>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+
+            <!-- Header Mobile -->
+            <div class="wrap-header-mobile">
+                <!-- Logo moblie -->
+                <div class="logo-mobile">
+                    <a href="index.html"><img src="images/icons/logo-01.png" alt="IMG-LOGO"></a>
+                </div>
+
+                <!-- Icon header -->
+                <div class="wrap-icon-header flex-w flex-r-m m-r-15">
+                    <div class="icon-header-item cl2 hov-cl1 trans-04 p-r-11 js-show-modal-search">
+                        <i class="zmdi zmdi-search"></i>
+                    </div>
+
+                    <div class="icon-header-item cl2 hov-cl1 trans-04 p-r-11 p-l-10 icon-header-noti js-show-cart"
+                        data-notify="2">
+                        <i class="zmdi zmdi-shopping-cart"></i>
+                    </div>
+
+                    <a href="#" class="dis-block icon-header-item cl2 hov-cl1 trans-04 p-r-11 p-l-10 icon-header-noti"
+                        data-notify="0">
+                        <i class="zmdi zmdi-favorite-outline"></i>
+                    </a>
+                </div>
+
+                <!-- Button show menu -->
+                <div class="btn-show-menu-mobile hamburger hamburger--squeeze">
+                    <span class="hamburger-box">
+                        <span class="hamburger-inner"></span>
+                    </span>
+                </div>
+            </div>
+
+
+            <!-- Menu Mobile -->
+            <div class="menu-mobile">
+                <ul class="topbar-mobile">
+                    <li>
+                        <div class="left-top-bar">
+                            Free shipping for standard order over $100
+                        </div>
+                    </li>
+
+                    <li>
+                        <div class="right-top-bar flex-w h-full">
+                            <a href="#" class="flex-c-m p-lr-10 trans-04">
+                                Help & FAQs
+                            </a>
+
+                            <a href="#" class="flex-c-m p-lr-10 trans-04">
+                                My Account
+                            </a>
+
+                            <a href="#" class="flex-c-m p-lr-10 trans-04">
+                                EN
+                            </a>
+
+                            <a href="#" class="flex-c-m p-lr-10 trans-04">
+                                USD
+                            </a>
+                        </div>
+                    </li>
+                </ul>
+
+                <ul class="main-menu-m">
+                    <li>
+                        <a href="index.html">Home</a>
+                        <ul class="sub-menu-m">
+                            <li><a href="index.html">Homepage 1</a></li>
+                            <li><a href="home-02.html">Homepage 2</a></li>
+                            <li><a href="home-03.html">Homepage 3</a></li>
+                        </ul>
+                        <span class="arrow-main-menu-m">
+                            <i class="fa fa-angle-right" aria-hidden="true"></i>
+                        </span>
+                    </li>
+
+                    <li>
+                        <a href="product.html">Shop</a>
+                    </li>
+
+                    <li>
+                        <a href="shoping-cart.html" class="label1 rs1" data-label1="hot">Features</a>
+                    </li>
+
+                    <li>
+                        <a href="blog.html">Blog</a>
+                    </li>
+
+                    <li>
+                        <a href="about.html">About</a>
+                    </li>
+
+                    <li>
+                        <a href="contact.html">Contact</a>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- Modal Search -->
+            <div class="modal-search-header flex-c-m trans-04 js-hide-modal-search">
+                <div class="container-search-header">
+                    <button class="flex-c-m btn-hide-modal-search trans-04 js-hide-modal-search">
+                        <img src="images/icons/icon-close2.png" alt="CLOSE">
+                    </button>
+
+                    <form class="wrap-search-header flex-w p-l-15">
+                        <button class="flex-c-m trans-04">
+                            <i class="zmdi zmdi-search"></i>
+                        </button>
+                        <input class="plh3" type="text" name="search" placeholder="Search...">
+                    </form>
+                </div>
+            </div>
+        </header>
+
+        <!-- Header Mobile -->
+        <div class="wrap-header-mobile">
+            <!-- Logo moblie -->
+            <div class="logo-mobile">
+                <a href="index.html"><img src="images/icons/logo-01.png" alt="IMG-LOGO"></a>
+            </div>
+
+            <!-- Icon header -->
+            <div class="wrap-icon-header flex-w flex-r-m m-r-15">
+                <div class="icon-header-item cl2 hov-cl1 trans-04 p-r-11 js-show-modal-search">
+                    <i class="zmdi zmdi-search"></i>
+                </div>
+
+                <div class="icon-header-item cl2 hov-cl1 trans-04 p-r-11 p-l-10 icon-header-noti js-show-cart"
+                    data-notify="2">
+                    <i class="zmdi zmdi-shopping-cart"></i>
+                </div>
+
+                <a href="#" class="dis-block icon-header-item cl2 hov-cl1 trans-04 p-r-11 p-l-10 icon-header-noti"
+                    data-notify="0">
+                    <i class="zmdi zmdi-favorite-outline"></i>
+                </a>
+            </div>
+
+            <!-- Button show menu -->
+            <div class="btn-show-menu-mobile hamburger hamburger--squeeze">
+                <span class="hamburger-box">
+                    <span class="hamburger-inner"></span>
+                </span>
+            </div>
+        </div>
+
+
+        <!-- Menu Mobile -->
+        <div class="menu-mobile">
+            <ul class="topbar-mobile">
+                <li>
+                    <div class="left-top-bar">
+                        Free shipping for standard order over $100
+                    </div>
+                </li>
+
+                <li>
+                    <div class="right-top-bar flex-w h-full">
+                        <a href="#" class="flex-c-m p-lr-10 trans-04">
+                            Help & FAQs
+                        </a>
+
+                        <a href="#" class="flex-c-m p-lr-10 trans-04">
+                            My Account
+                        </a>
+
+                        <a href="#" class="flex-c-m p-lr-10 trans-04">
+                            EN
+                        </a>
+
+                        <a href="#" class="flex-c-m p-lr-10 trans-04">
+                            USD
+                        </a>
+                    </div>
+                </li>
+            </ul>
+
+            <ul class="main-menu-m">
+                <li>
+                    <a href="index.html">Home</a>
+                    <ul class="sub-menu-m">
+                        <li><a href="index.html">Homepage 1</a></li>
+                        <li><a href="home-02.html">Homepage 2</a></li>
+                        <li><a href="home-03.html">Homepage 3</a></li>
+                    </ul>
+                    <span class="arrow-main-menu-m">
+                        <i class="fa fa-angle-right" aria-hidden="true"></i>
+                    </span>
+                </li>
+
+                <li>
+                    <a href="product.html">Shop</a>
+                </li>
+
+                <li>
+                    <a href="shoping-cart.html" class="label1 rs1" data-label1="hot">Features</a>
+                </li>
+
+                <li>
+                    <a href="blog.html">Blog</a>
+                </li>
+
+                <li>
+                    <a href="about.html">About</a>
+                </li>
+
+                <li>
+                    <a href="contact.html">Contact</a>
+                </li>
+            </ul>
+        </div>
+
+        <!-- Modal Search -->
+        <div class="modal-search-header flex-c-m trans-04 js-hide-modal-search">
+            <div class="container-search-header">
+                <button class="flex-c-m btn-hide-modal-search trans-04 js-hide-modal-search">
+                    <img src="images/icons/icon-close2.png" alt="CLOSE">
+                </button>
+
+                <form class="wrap-search-header flex-w p-l-15">
+                    <button class="flex-c-m trans-04">
+                        <i class="zmdi zmdi-search"></i>
+                    </button>
+                    <input class="plh3" type="text" name="search" placeholder="Search...">
+                </form>
+            </div>
+        </div>
+    </header>
+    <hr class="m-0">
+    <div class="form-container">
+        <h2>Đăng Ký</h2>
+        <form id="registerForm" action="http://localhost:8066/api/register" method="POST">
+            <div class="form-group">
+                <label for="confirm-password">Họ tên</label>
+                <input type="text" id="fullName" name="fullName" placeholder="Nhập họ tên của bạn" required>
+            </div>
+            <div class="form-group">
+                <label for="email">Email</label>
+                <input type="email" id="email" name="email" placeholder="Nhập email của bạn" required>
+            </div>
+            <div class="form-group">
+                <label for="password">Mật khẩu</label>
+                <input type="password" id="password" name="passwordHash" placeholder="Nhập mật khẩu" required>
+            </div>
+
+            <div class="form-group">
+                <button type="submit">Đăng Ký</button>
+            </div>
+        </form>
+        <div class="form-footer">
+            <p>Đã có tài khoản? <a href="./login.html">Đăng nhập</a></p>
+        </div>
+    </div>
+    <!-- Footer -->
+    <footer class="bg3 p-t-75 p-b-32">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6 col-lg-3 p-b-50">
+                    <h4 class="stext-301 cl0 p-b-30">
+                        Categories
+                    </h4>
+
+                    <ul>
+                        <li class="p-b-10">
+                            <a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+                                Women
+                            </a>
+                        </li>
+
+                        <li class="p-b-10">
+                            <a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+                                Men
+                            </a>
+                        </li>
+
+                        <li class="p-b-10">
+                            <a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+                                Shoes
+                            </a>
+                        </li>
+
+                        <li class="p-b-10">
+                            <a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+                                Watches
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="col-sm-6 col-lg-3 p-b-50">
+                    <h4 class="stext-301 cl0 p-b-30">
+                        Help
+                    </h4>
+
+                    <ul>
+                        <li class="p-b-10">
+                            <a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+                                Track Order
+                            </a>
+                        </li>
+
+                        <li class="p-b-10">
+                            <a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+                                Returns
+                            </a>
+                        </li>
+
+                        <li class="p-b-10">
+                            <a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+                                Shipping
+                            </a>
+                        </li>
+
+                        <li class="p-b-10">
+                            <a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+                                FAQs
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="col-sm-6 col-lg-3 p-b-50">
+                    <h4 class="stext-301 cl0 p-b-30">
+                        GET IN TOUCH
+                    </h4>
+
+                    <p class="stext-107 cl7 size-201">
+                        Any questions? Let us know in store at 8th floor, 379 Hudson St, New York, NY 10018 or call us
+                        on (+1) 96 716 6879
+                    </p>
+
+                    <div class="p-t-27">
+                        <a href="#" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
+                            <i class="fa fa-facebook"></i>
+                        </a>
+
+                        <a href="#" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
+                            <i class="fa fa-instagram"></i>
+                        </a>
+
+                        <a href="#" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
+                            <i class="fa fa-pinterest-p"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-lg-3 p-b-50">
+                    <h4 class="stext-301 cl0 p-b-30">
+                        Newsletter
+                    </h4>
+
+                    <form>
+                        <div class="wrap-input1 w-full p-b-4">
+                            <input class="input1 bg-none plh1 stext-107 cl7" type="text" name="email"
+                                placeholder="email@example.com">
+                            <div class="focus-input1 trans-04"></div>
+                        </div>
+
+                        <div class="p-t-18">
+                            <button class="flex-c-m stext-101 cl0 size-103 bg1 bor1 hov-btn2 p-lr-15 trans-04">
+                                Subscribe
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <div class="p-t-40">
+                <div class="flex-c-m flex-w p-b-18">
+                    <a href="#" class="m-all-1">
+                        <img src="images/icons/icon-pay-01.png" alt="ICON-PAY">
+                    </a>
+
+                    <a href="#" class="m-all-1">
+                        <img src="images/icons/icon-pay-02.png" alt="ICON-PAY">
+                    </a>
+
+                    <a href="#" class="m-all-1">
+                        <img src="images/icons/icon-pay-03.png" alt="ICON-PAY">
+                    </a>
+
+                    <a href="#" class="m-all-1">
+                        <img src="images/icons/icon-pay-04.png" alt="ICON-PAY">
+                    </a>
+
+                    <a href="#" class="m-all-1">
+                        <img src="images/icons/icon-pay-05.png" alt="ICON-PAY">
+                    </a>
+                </div>
+
+                <p class="stext-107 cl6 txt-center">
+                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                    Copyright &copy;
+                    <script>document.write(new Date().getFullYear());</script> All rights reserved | Made with <i
+                        class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com"
+                        target="_blank">Colorlib</a> &amp; distributed by <a href="https://themewagon.com"
+                        target="_blank">ThemeWagon</a>
+                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+
+                </p>
+            </div>
+        </div>
+    </footer>
+
+
+</body>
+
+</html>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script>
+    const form = document.querySelector("#registerForm");
+
+    form.addEventListener("submit", async (e) => {
+        e.preventDefault();
+        const formData = new FormData(form);
+        const email = formData.get("email");
+        const password = formData.get("passwordHash");
+        const fullName = formData.get("fullName");
+
+
+        if (!email || !password || !fullName) {
+            Swal.fire({
+                icon: "error",
+                title: "Lỗi nhập liệu",
+                text: "Vui lòng kiểm tra lại email hoặc mật khẩu!",
+            });
+            return;
+        }
+        try {
+            const jsonData = {
+                email: formData.get("email"),
+                passwordHash: formData.get("passwordHash"),
+                fullName: formData.get("fullName"),
+            };
+            console.log(jsonData);
+            const response = await fetch("http://localhost:8066/api/register", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify(jsonData),
+            });
+            let result = await response.json();
+            if (response.status === 200) {
+                Swal.fire({
+                    icon: "success",
+                    title: "Thành công",
+                    text: `${result.message}`,
+                    draggable: true
+                });
+                setTimeout(() => {
+                    window.location.href = "./login.html";
+                }, 3000)
+            } else if (response.status === 403) {
+                Swal.fire({
+                    icon: "error",
+                    title: "Lỗi nhập liệu",
+                    text: `${result.message}`,
+                    draggable: true,
+                })
+            }
+
+        } catch (error) {
+            Swal.fire({
+                icon: "error",
+                title: "Đăng ký thất bại",
+                text: error.message || "Có lỗi xảy ra, vui lòng thử lại!",
+            });
+        }
+    });
+
+</script>

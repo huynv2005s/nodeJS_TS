@@ -1,0 +1,712 @@
+[{
+  "_id": {
+    "$oid": "67aae1c697371dbcff68ed8c"
+  },
+  "name": "Áo Thun Tay Lỡ Unisex SAIGONESE Chạy Viền Lines Form Nam Nữ 2 Màu",
+  "description": "Áo Thun Tay Lỡ Unisex SAIGONESE Chạy Viền Lines Form Nam Nữ 2 Màu",
+  "price": 200000,
+  "categoryId": {
+    "$oid": "67aaa664e4c58afec37fbe73"
+  },
+  "images": [
+    "https://res.cloudinary.com/diishpkrl/image/upload/v1739252163/uploads/jdk9dkjk6rrybqs98uc1.jpg"
+  ],
+  "tags": [
+    "Sale",
+    "Hot"
+  ],
+  "variants": [
+    {
+      "color": "Đen",
+      "size": "S",
+      "stock": 100,
+      "price": 200000,
+      "_id": {
+        "$oid": "67aae1c697371dbcff68ed8d"
+      }
+    },
+    {
+      "color": "Đen",
+      "size": "M",
+      "stock": 30,
+      "price": 200000,
+      "_id": {
+        "$oid": "67aae1c697371dbcff68ed8e"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-11T05:36:06.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-21T16:51:37.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aae27097371dbcff68ed90"
+  },
+  "name": " Áo thun Kill System du lịch Vũng Tàu chất cotton tay ngắn màu trắng",
+  "description": " Áo thun Kill System du lịch Vũng Tàu chất cotton tay ngắn màu trắng",
+  "price": 150000,
+  "categoryId": {
+    "$oid": "67aaa664e4c58afec37fbe73"
+  },
+  "images": [
+    "https://res.cloudinary.com/diishpkrl/image/upload/v1739252334/uploads/xdz49lgmvxidkfr0k827.avif"
+  ],
+  "tags": [
+    "Sale",
+    "Hot"
+  ],
+  "variants": [
+    {
+      "color": "Đen",
+      "size": "S",
+      "stock": 100,
+      "price": 150000,
+      "_id": {
+        "$oid": "67aae27097371dbcff68ed91"
+      }
+    },
+    {
+      "color": "Đen",
+      "size": "M",
+      "stock": 30,
+      "price": 150000,
+      "_id": {
+        "$oid": "67aae27097371dbcff68ed92"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-11T05:38:56.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-21T16:51:37.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aae2d497371dbcff68ed98"
+  },
+  "name": "ÁO PHÔNG LOCAL BEAND HÀ NỘI - ÁO THUN PHOM RỘNG",
+  "description": "ÁO PHÔNG LOCAL BEAND HÀ NỘI - ÁO THUN PHOM RỘNG",
+  "price": 180000,
+  "categoryId": {
+    "$oid": "67aaa664e4c58afec37fbe73"
+  },
+  "images": [
+    "https://res.cloudinary.com/diishpkrl/image/upload/v1739252435/uploads/yxxdd8nd4ebys5jv2oky.jpg"
+  ],
+  "tags": [
+    "Sale",
+    "Hot"
+  ],
+  "variants": [
+    {
+      "color": "Đen",
+      "size": "S",
+      "stock": 100,
+      "price": 180000,
+      "_id": {
+        "$oid": "67aae2d497371dbcff68ed99"
+      }
+    },
+    {
+      "color": "Đen",
+      "size": "M",
+      "stock": 30,
+      "price": 180000,
+      "_id": {
+        "$oid": "67aae2d497371dbcff68ed9a"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-11T05:40:36.066Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-21T16:51:37.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aae42697371dbcff68edb0"
+  },
+  "name": "Áo thun MENFIT",
+  "description": "Áo thun MENFIT",
+  "price": 250000,
+  "categoryId": {
+    "$oid": "67aaa664e4c58afec37fbe73"
+  },
+  "images": [
+    "https://res.cloudinary.com/diishpkrl/image/upload/v1739252773/uploads/nrah4vrz3ixmqtofbn5d.avif"
+  ],
+  "tags": [
+    "Sale",
+    "Hot"
+  ],
+  "variants": [
+    {
+      "color": "Đen",
+      "size": "S",
+      "stock": 100,
+      "price": 250000,
+      "_id": {
+        "$oid": "67aae42697371dbcff68edb1"
+      }
+    },
+    {
+      "color": "Đen",
+      "size": "M",
+      "stock": 30,
+      "price": 250000,
+      "_id": {
+        "$oid": "67aae42697371dbcff68edb2"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-11T05:46:14.125Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-21T16:51:37.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aae5454335d7deb0a49de5"
+  },
+  "name": "Áo Thun Teelab Local Brand Unisex Carita Feliz Flower Tshirt TS279",
+  "description": "Áo Thun Teelab Local Brand Unisex Carita Feliz Flower Tshirt TS279",
+  "price": 250000,
+  "categoryId": {
+    "$oid": "67aaa664e4c58afec37fbe73"
+  },
+  "images": [
+    "https://res.cloudinary.com/diishpkrl/image/upload/v1739253059/uploads/iy7b4ofymguwtrvtorok.webp"
+  ],
+  "tags": [
+    "Sale",
+    "Hot"
+  ],
+  "variants": [
+    {
+      "color": "Đen",
+      "size": "S",
+      "stock": 100,
+      "price": 250000,
+      "_id": {
+        "$oid": "67aae5454335d7deb0a49de6"
+      }
+    },
+    {
+      "color": "Đen",
+      "size": "M",
+      "stock": 30,
+      "price": 250000,
+      "_id": {
+        "$oid": "67aae5454335d7deb0a49de7"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-11T05:51:01.442Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-21T16:51:37.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aae5794335d7deb0a49de9"
+  },
+  "name": "Áo Thun Teelab Local Brand Unisex GRIZZLY BEAR TIYDIE TS172",
+  "description": "Áo Thun Teelab Local Brand Unisex GRIZZLY BEAR TIYDIE TS172",
+  "price": 150000,
+  "categoryId": {
+    "$oid": "67aaa664e4c58afec37fbe73"
+  },
+  "images": [
+    "https://res.cloudinary.com/diishpkrl/image/upload/v1739253112/uploads/un1kspbr4auzaeo3ixn8.webp"
+  ],
+  "tags": [
+    "Sale",
+    "Hot"
+  ],
+  "variants": [
+    {
+      "color": "Đen",
+      "size": "S",
+      "stock": 100,
+      "price": 150000,
+      "_id": {
+        "$oid": "67aae5794335d7deb0a49dea"
+      }
+    },
+    {
+      "color": "Đen",
+      "size": "M",
+      "stock": 30,
+      "price": 150000,
+      "_id": {
+        "$oid": "67aae5794335d7deb0a49deb"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-11T05:51:53.997Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-21T16:51:37.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aae6474335d7deb0a49ded"
+  },
+  "name": "DSW BASIC SHIRT",
+  "description": "DSW BASIC SHIRT",
+  "price": 170000,
+  "categoryId": {
+    "$oid": "67a5583add2707e51a9c9fc0"
+  },
+  "images": [
+    "https://res.cloudinary.com/diishpkrl/image/upload/v1739253318/uploads/m2w1yr1vnqfxk8rdjizw.jpg"
+  ],
+  "tags": [
+    "Sale",
+    "Hot"
+  ],
+  "variants": [
+    {
+      "color": "Đen",
+      "size": "S",
+      "stock": 100,
+      "price": 170000,
+      "_id": {
+        "$oid": "67aae6474335d7deb0a49dee"
+      }
+    },
+    {
+      "color": "Đen",
+      "size": "M",
+      "stock": 30,
+      "price": 170000,
+      "_id": {
+        "$oid": "67aae6474335d7deb0a49def"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-11T05:55:19.386Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-21T16:51:37.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aae6794335d7deb0a49df1"
+  },
+  "name": "Áo Sơ Mi Nam Xanh Đen Art Vải Nhăn",
+  "description": "Áo Sơ Mi Nam Xanh Đen Art Vải Nhăn",
+  "price": 190000,
+  "categoryId": {
+    "$oid": "67a5583add2707e51a9c9fc0"
+  },
+  "images": [
+    "https://res.cloudinary.com/diishpkrl/image/upload/v1739253368/uploads/xapj0x94zmjxlgq487qz.webp"
+  ],
+  "tags": [
+    "Sale",
+    "Hot"
+  ],
+  "variants": [
+    {
+      "color": "Đen",
+      "size": "S",
+      "stock": 100,
+      "price": 190000,
+      "_id": {
+        "$oid": "67aae6794335d7deb0a49df2"
+      }
+    },
+    {
+      "color": "Đen",
+      "size": "M",
+      "stock": 30,
+      "price": 190000,
+      "_id": {
+        "$oid": "67aae6794335d7deb0a49df3"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-11T05:56:09.562Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-21T16:51:37.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aaeec9f8ae99a069fdc4cf"
+  },
+  "name": "Đầm Cúp Tua Rua Kèm Hoa Hồng Cổ Có Mút Cúp",
+  "description": "Đầm Cúp Tua Rua Kèm Hoa Hồng Cổ Có Mút Cúp",
+  "price": 120000,
+  "categoryId": {
+    "$oid": "67a4e9685f116c0f4ca4b1d2"
+  },
+  "images": [
+    "https://res.cloudinary.com/diishpkrl/image/upload/v1739255496/uploads/s0xmiuiwwu13kuhbtbzf.webp"
+  ],
+  "tags": [
+    "Sale"
+  ],
+  "variants": [
+    {
+      "color": "Đen",
+      "size": "S",
+      "stock": 100,
+      "price": 120000,
+      "_id": {
+        "$oid": "67aaeec9f8ae99a069fdc4d0"
+      }
+    },
+    {
+      "color": "Đen",
+      "size": "M",
+      "stock": 30,
+      "price": 120000,
+      "_id": {
+        "$oid": "67aaeec9f8ae99a069fdc4d1"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-11T06:31:37.926Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-21T16:51:37.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aaef0df8ae99a069fdc4d3"
+  },
+  "name": "Đầm Voan Tơ Dáng Xòe Tay Loe Tua Rua - Catchy",
+  "description": "Đầm Voan Tơ Dáng Xòe Tay Loe Tua Rua - Catchy",
+  "price": 250000,
+  "categoryId": {
+    "$oid": "67a4e9685f116c0f4ca4b1d2"
+  },
+  "images": [
+    "https://res.cloudinary.com/diishpkrl/image/upload/v1739255564/uploads/o4fxuisvddiu83ryqg7r.webp"
+  ],
+  "tags": [
+    "Sale"
+  ],
+  "variants": [
+    {
+      "color": "Đen",
+      "size": "S",
+      "stock": 100,
+      "price": 250000,
+      "_id": {
+        "$oid": "67aaef0df8ae99a069fdc4d4"
+      }
+    },
+    {
+      "color": "Đen",
+      "size": "M",
+      "stock": 30,
+      "price": 250000,
+      "_id": {
+        "$oid": "67aaef0df8ae99a069fdc4d5"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-11T06:32:45.595Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-21T16:51:37.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aaef46f8ae99a069fdc4d7"
+  },
+  "name": "Đầm Body Nữ Cúp Ngực 21ROOM Tua Rua Sexy Quyến Rũ Thời Trang Nữ",
+  "description": "Đầm Body Nữ Cúp Ngực 21ROOM Tua Rua Sexy Quyến Rũ Thời Trang Nữ",
+  "price": 220000,
+  "categoryId": {
+    "$oid": "67a4e9685f116c0f4ca4b1d2"
+  },
+  "images": [
+    "https://res.cloudinary.com/diishpkrl/image/upload/v1739255621/uploads/kf9yaqjxd4dtb2j8vy19.webp"
+  ],
+  "tags": [
+    "Sale"
+  ],
+  "variants": [
+    {
+      "color": "Đen",
+      "size": "S",
+      "stock": 100,
+      "price": 220000,
+      "_id": {
+        "$oid": "67aaef46f8ae99a069fdc4d8"
+      }
+    },
+    {
+      "color": "Đen",
+      "size": "M",
+      "stock": 30,
+      "price": 220000,
+      "_id": {
+        "$oid": "67aaef46f8ae99a069fdc4d9"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-11T06:33:42.107Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-21T16:51:37.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aaef94f8ae99a069fdc4db"
+  },
+  "name": "uần Short Pocket SAIGONESE Quần Đùi Túi Hộp Unisex Nam Nữ 4 Màu",
+  "description": "uần Short Pocket SAIGONESE Quần Đùi Túi Hộp Unisex Nam Nữ 4 Màu",
+  "price": 170000,
+  "categoryId": {
+    "$oid": "67aaa66ee4c58afec37fbe75"
+  },
+  "images": [
+    "https://res.cloudinary.com/diishpkrl/image/upload/v1739255699/uploads/dwjlxkng8hsgynicu5ze.webp"
+  ],
+  "tags": [
+    "Sale"
+  ],
+  "variants": [
+    {
+      "color": "Đen",
+      "size": "S",
+      "stock": 100,
+      "price": 170000,
+      "_id": {
+        "$oid": "67aaef94f8ae99a069fdc4dc"
+      }
+    },
+    {
+      "color": "Đen",
+      "size": "M",
+      "stock": 30,
+      "price": 170000,
+      "_id": {
+        "$oid": "67aaef94f8ae99a069fdc4dd"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-11T06:35:00.758Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-21T16:51:37.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aaefd7f8ae99a069fdc4df"
+  },
+  "name": "Quần Short Jean Nam Wash JULIDO",
+  "description": "Quần Short Jean Nam Wash JULIDO",
+  "price": 190000,
+  "categoryId": {
+    "$oid": "67aaa66ee4c58afec37fbe75"
+  },
+  "images": [
+    "https://res.cloudinary.com/diishpkrl/image/upload/v1739255766/uploads/sh2rci7a72ytmxofdiql.webp"
+  ],
+  "tags": [
+    "Sale"
+  ],
+  "variants": [
+    {
+      "color": "Đen",
+      "size": "S",
+      "stock": 100,
+      "price": 190000,
+      "_id": {
+        "$oid": "67aaefd7f8ae99a069fdc4e0"
+      }
+    },
+    {
+      "color": "Đen",
+      "size": "M",
+      "stock": 30,
+      "price": 190000,
+      "_id": {
+        "$oid": "67aaefd7f8ae99a069fdc4e1"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-11T06:36:07.541Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-21T16:51:37.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aaf003f8ae99a069fdc4e3"
+  },
+  "name": "Quần Short Dù Nhăn GUPO Logo Thêu Nổi Lót Lưới Form Trên Gối Nam Nữ",
+  "description": "Quần Short Dù Nhăn GUPO Logo Thêu Nổi Lót Lưới Form Trên Gối Nam Nữ",
+  "price": 120000,
+  "categoryId": {
+    "$oid": "67aaa66ee4c58afec37fbe75"
+  },
+  "images": [
+    "https://res.cloudinary.com/diishpkrl/image/upload/v1739255809/uploads/cpoiliutakgttclncosd.webp"
+  ],
+  "tags": [
+    "Sale"
+  ],
+  "variants": [
+    {
+      "color": "Đen",
+      "size": "S",
+      "stock": 100,
+      "price": 120000,
+      "_id": {
+        "$oid": "67aaf003f8ae99a069fdc4e4"
+      }
+    },
+    {
+      "color": "Đen",
+      "size": "M",
+      "stock": 30,
+      "price": 120000,
+      "_id": {
+        "$oid": "67aaf003f8ae99a069fdc4e5"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-11T06:36:51.233Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-21T16:51:37.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aaf083f8ae99a069fdc554"
+  },
+  "name": " Quần Short Lửng",
+  "description": " Quần Short Lửng",
+  "price": 70000,
+  "categoryId": {
+    "$oid": "67aaa66ee4c58afec37fbe75"
+  },
+  "images": [
+    "https://res.cloudinary.com/diishpkrl/image/upload/v1739255938/uploads/rqph8bxmkshtmilnrwit.webp"
+  ],
+  "tags": [
+    "Sale"
+  ],
+  "variants": [
+    {
+      "color": "Đen",
+      "size": "S",
+      "stock": 100,
+      "price": 70000,
+      "_id": {
+        "$oid": "67aaf083f8ae99a069fdc555"
+      }
+    },
+    {
+      "color": "Đen",
+      "size": "M",
+      "stock": 30,
+      "price": 70000,
+      "_id": {
+        "$oid": "67aaf083f8ae99a069fdc556"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-11T06:38:59.551Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-21T16:51:37.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aaf0d0f8ae99a069fdc558"
+  },
+  "name": "Tianlesiwei American Street College Style",
+  "description": "Tianlesiwei American Street College Style",
+  "price": 170000,
+  "categoryId": {
+    "$oid": "67a5583add2707e51a9c9fc0"
+  },
+  "images": [
+    "https://res.cloudinary.com/diishpkrl/image/upload/v1739256015/uploads/gndid8aibz8wkigl0yx9.webp"
+  ],
+  "tags": [
+    "Sale"
+  ],
+  "variants": [
+    {
+      "color": "Đen",
+      "size": "S",
+      "stock": 100,
+      "price": 170000,
+      "_id": {
+        "$oid": "67aaf0d0f8ae99a069fdc559"
+      }
+    },
+    {
+      "color": "Đen",
+      "size": "M",
+      "stock": 30,
+      "price": 170000,
+      "_id": {
+        "$oid": "67aaf0d0f8ae99a069fdc55a"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-11T06:40:16.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-21T16:51:37.461Z"
+  },
+  "__v": 0
+}]

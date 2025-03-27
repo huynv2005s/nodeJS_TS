@@ -1,0 +1,26 @@
+{
+  "name": "asm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/isotope-layout": "^3.0.14",
+    "datatables.net-dt": "^2.2.2",
+    "isotope-layout": "^3.0.6",
+    "jquery": "^3.7.1",
+    "json-server": "^1.0.0-beta.3",
+    "three": "^0.173.0"
+  },
+  "devDependencies": {
+    "@types/datatables.net": "^1.12.3",
+    "@types/jquery": "^3.5.32",
+    "@types/node": "^22.13.1"
+  }
+}

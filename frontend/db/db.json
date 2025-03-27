@@ -1,0 +1,173 @@
+{
+    "brands": [
+        {
+            "id": 1,
+            "name": "Asus",
+            "position": 1,
+            "status": 1
+        },
+        {
+            "id": 2,
+            "name": "Aser",
+            "position": 2,
+            "status": 0
+        },
+        {
+            "name": "Macbook",
+            "position": 1,
+            "status": 1,
+            "id": 3
+        },
+        {
+            "name": "Ipad",
+            "position": 3,
+            "status": 1,
+            "id": 4
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "brand_id": 1,
+            "type_id": 1,
+            "name": "Asus Gaming MS400222",
+            "price": 12990000,
+            "sale": 11990000,
+            "image": "https://cdn.tgdd.vn/Products/Images/44/313333/lenovo-ideapad-slim-3-15iah8-i5-83er00evn-thumb-600x600.jpg",
+            "description": "Sở hữu thiết kế sang trọng, màn hình siêu mỏng kích thước 58 inch, độ phân giải 4K sắc nét, công nghệ HDR10 tối ưu độ sáng, độ tương phản cho trải nghiệm xem phim tuyệt vời.",
+            "hot": 1,
+            "status": 1,
+            "created_date": "2022-07-11"
+        },
+        {
+            "id": 2,
+            "brand_id": 3,
+            "type_id": 2,
+            "name": "Aser Gaming MS400999",
+            "price": 12990000,
+            "sale": 11990000,
+            "image": "https://cdn.tgdd.vn/Products/Images/44/231244/macbook-air-m1-2020-gray-600x600.jpg",
+            "description": "Laptop thiết kế tinh tế, màn hình siêu mỏng kích thước 58 inch, công nghệ HDR10 tối ưu độ sáng, độ tương phản.",
+            "hot": 1,
+            "status": 1,
+            "created_date": "2023-08-12"
+        },
+        {
+            "id": 3,
+            "brand_id": 3,
+            "type_id": 3,
+            "name": "Dell Precision M5000",
+            "price": 15990000,
+            "sale": 14990000,
+            "image": "data:image/webp;base64,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",
+            "description": "Laptop Dell Precision với hiệu năng mạnh mẽ, thiết kế cứng cáp, phù hợp cho các tác vụ đồ họa.",
+            "hot": 1,
+            "status": 1,
+            "created_date": "2023-01-15"
+        },
+        {
+            "id": 4,
+            "brand_id": 4,
+            "type_id": 4,
+            "name": "HP Pavilion X360",
+            "price": 13990000,
+            "sale": 12990000,
+            "image": "data:image/jpeg;base64,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",
+            "description": "Laptop 2 trong 1 xoay gập linh hoạt, màn hình cảm ứng, vi xử lý Intel thế hệ mới.",
+            "hot": 1,
+            "status": 1,
+            "created_date": "2023-05-10"
+        },
+        {
+            "id": 5,
+            "brand_id": 1,
+            "type_id": 5,
+            "name": "Lenovo ThinkPad X1 Carbon",
+            "price": 20990000,
+            "sale": 19990000,
+            "image": "https://p3-ofp.static.pub//fes/cms/2024/07/05/umcrxcnsm2br1itju6gvundeb9s6tf364734.png",
+            "description": "Laptop doanh nhân cao cấp, mỏng nhẹ, bền bỉ, đạt chuẩn quân đội.",
+            "hot": 1,
+            "status": 1,
+            "created_date": "2023-11-20"
+        },
+        {
+            "id": 6,
+            "brand_id": 3,
+            "type_id": 6,
+            "name": "MSI Gaming GF63 Thin",
+            "price": 18990000,
+            "sale": 17990000,
+            "image": "https://cdn.tgdd.vn/Products/Images/44/303500/msi-gaming-gf63-thin-11sc-i5-664vn-123-glr-3-750x500.jpg",
+            "description": "Laptop gaming với thiết kế siêu mỏng nhẹ, hiệu suất mạnh mẽ, phù hợp cho game thủ.",
+            "hot": 1,
+            "status": 1,
+            "created_date": "2023-09-15"
+        },
+        {
+            "id": 7,
+            "brand_id": 4,
+            "type_id": 7,
+            "name": "Apple MacBook Pro M2",
+            "price": 37990000,
+            "sale": 36990000,
+            "image": "https://laptopvang.com/wp-content/uploads/2023/10/macbook-pro-m3-max-16-inch-black-768x768.jpg",
+            "description": "MacBook Pro chip M2 mạnh mẽ, màn hình Retina, thời lượng pin 20 giờ.",
+            "hot": 1,
+            "status": 1,
+            "created_date": "2024-01-01"
+        }
+    ],
+    "attributes": [
+        {
+            "id": 1,
+            "product_id": 1,
+            "ram": "8GB",
+            "cpu": "i5",
+            "disk": "512GB",
+            "monitor": "14 inchs",
+            "pin": "3 cell Lion, 50 Wh"
+        },
+        {
+            "id": 1,
+            "product_id": 2,
+            "ram": "16GB",
+            "cpu": "i7",
+            "disk": "512GB",
+            "monitor": "15 inchs",
+            "pin": "3 cell Lion, 100 Wh"
+        },
+        {
+            "id": 3,
+            "product_id": 3,
+            "ram": "16GB",
+            "cpu": "i7",
+            "disk": "512GB",
+            "monitor": "15 inchs",
+            "pin": "3 cell Lion, 100 Wh"
+        },
+        {
+            "id": 4,
+            "product_id": 4,
+            "ram": "16GB",
+            "cpu": "i7",
+            "disk": "512GB",
+            "monitor": "15 inchs",
+            "pin": "3 cell Lion, 100 Wh"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "Nguyễn Lê Phương",
+            "password": "123456",
+            "email": "phuongnl21@fpt.edu.vn"
+        },
+        {
+            "id": 2,
+            "name": "Nguyễn Huỳnh Phương",
+            "password": "123456",
+            "email": "phuongnh21@fpt.edu.vn"
+        }
+    ]
+}

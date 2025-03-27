@@ -1,0 +1,98 @@
+[{
+  "_id": {
+    "$oid": "67a611f8d401d7acaa603a8b"
+  },
+  "fullName": "dádsđs",
+  "email": "admin@gmail.com",
+  "passwordHash": "dsadass",
+  "role": "customer",
+  "isVerified": false,
+  "createdAt": {
+    "$date": "2025-02-07T14:00:24.140Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a6150bffc9b439525a8b5f"
+  },
+  "fullName": "đasadsad",
+  "email": "dsa@gmail.com",
+  "passwordHash": "adfasd",
+  "role": "customer",
+  "isVerified": false,
+  "createdAt": {
+    "$date": "2025-02-07T14:13:31.143Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a6154004cb64eaba6d3e7f"
+  },
+  "fullName": "huy",
+  "email": "dsadads@gmail.com",
+  "passwordHash": "huhucsdfds",
+  "role": "customer",
+  "isVerified": false,
+  "createdAt": {
+    "$date": "2025-02-07T14:14:24.718Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a6157204cb64eaba6d3e83"
+  },
+  "fullName": "fsdfsdff",
+  "email": "bbbb@gmail.com",
+  "passwordHash": "sdfsdf",
+  "role": "customer",
+  "isVerified": false,
+  "createdAt": {
+    "$date": "2025-02-07T14:15:14.253Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a615a630bd188f21750a29"
+  },
+  "fullName": "dsdsdsds",
+  "email": "sas@gmail.com",
+  "passwordHash": "gggdsd",
+  "role": "customer",
+  "isVerified": false,
+  "createdAt": {
+    "$date": "2025-02-07T14:16:06.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a615cb30bd188f21750a2e"
+  },
+  "fullName": "sâsas",
+  "email": "huynvps3@gmail.com",
+  "passwordHash": "sáa",
+  "role": "customer",
+  "isVerified": false,
+  "createdAt": {
+    "$date": "2025-02-07T14:16:43.726Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aaded7e4c58afec37fc0cd"
+  },
+  "fullName": "vu huy",
+  "email": "huynvps39718@gmail.com",
+  "passwordHash": "admin123",
+  "role": "customer",
+  "isVerified": false,
+  "createdAt": {
+    "$date": "2025-02-11T05:23:35.562Z"
+  },
+  "__v": 0
+}]
